@@ -9,8 +9,7 @@
 - **Klasifikasi Warna**: Setiap tag diklasifikasikan dengan warna yang berbeda untuk memudahkan identifikasi.
 
 ## Teknologi yang Digunakan
-- HTML
-- CSS
+- HTML only
 
 ---
 
